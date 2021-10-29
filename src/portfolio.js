@@ -17,7 +17,7 @@ const greeting = {
     "I'm young Software and  web Developer from Montpellier 🏡 in south of France. I'm passioned from the univers of web developement and the computer science 💻."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1ofFdKF_mqscH8WvXkSObnVvC9kK7Ldlu/view?usp=sharing", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1oRiF87KIYONYP0G-fa9h-OFdp1PbGrLv/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -35,7 +35,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "I was able to specialize in web development on a full Javascript/Typescript stack via personal projects and professional experience. ",
+  subTitle: "I was able to specialize in web development on a full Javascript/Typescript stack via personal projects and professional experiences.",
   skills: [
     emoji(
       "⚡ Develop new web applications"
@@ -309,7 +309,7 @@ const achievementSection = {
 // Blogs Section
 
 const blogSection = {
-  title: "Project under development ",
+  title: "Projects under development ",
   subtitle:
     "SOME PROJECTS THATS I DEVELOP CURRENTLY IN MY FREE TIME.",
 
