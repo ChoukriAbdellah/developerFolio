@@ -26,8 +26,7 @@ const greeting = {
 const socialMediaLinks = {
   github: "https://github.com/ChoukriAbdellah",
   linkedin: "https://www.linkedin.com/in/abdellah-choukri-b405321b2/",
-  gmail: "saadpasta70@gmail.com",
-  facebook: "https://www.facebook.com/saad.pasta7",
+  gmail: "abdellahchoukrietu@gmail.com",
   display: true // Set true to display this section, defaults to false
 };
 
