@@ -309,7 +309,7 @@ const achievementSection = {
 // Blogs Section
 
 const blogSection = {
-  title: "project under development ",
+  title: "Project under development ",
   subtitle:
     "SOME PROJECTS THATS I DEVELOP CURRENTLY IN MY FREE TIME.",
 
